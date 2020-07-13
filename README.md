@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+![Stats](https://github-readme-stats.vercel.app/api?username=gomorizsolt)
+
+<hr />
+
+<p align="center">
+  Let's connect! I'm open to collaborating and pair-programming with anyone who's into these fun pastime activities.
+  
+  <p align="center">
+    
+  </p>
+  
+  <p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=gomorizsolt.visitor-badge" alt="visitor badge"/>
+  </p>
+</p>
+
 <!--
 **gomorizsolt/gomorizsolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
