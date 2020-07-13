@@ -1,6 +1,16 @@
-### Hi there 👋
-
 <img src="https://raw.githubusercontent.com/gomorizsolt/gomorizsolt/master/assets/hero.png" alt="Hero image">
+<br /><br />
+
+- Frontend engineer, self-taught developer and fitness addict who's passionate about creating constructive content.
+- Experimenting with new tools, solving problems and finding bugs is my jam no matter how nerve-wracking it is.
+- Physical and mental health is as important to me as coding, as well as maintaining a well-balanced and healthy lifestyle.
+- Occasionally posting tips, tricks and TIL stuff on [dev.to](https://dev.to/zsgomoridev).
+
+I'm currently learning:
+- TypeScript
+- Gatsby
+- GraphQL
+- AWS
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=gomorizsolt)
 
