@@ -2,9 +2,7 @@
 
 Hey there! 👋
 
-- I'm Zsolt a web developer and health enthusiast from Hungary. 🇭🇺
-- I love learning and building tools in my spare time, [cultivating my digital garden](https://zsgomori.dev/), running, callisthenics and weighting lifts.
-- I'm committed to maintaining a well-balanced and healthy lifestyle.
+I'm Zsolt a web developer and health enthusiast based in Hungary. 🇭🇺 I love learning, building tools, [cultivating my digital garden](https://zsgomori.dev/), running, callisthenics and weighting lifts.
 
 Current tech stack:
 - JS / TS
